@@ -1,2 +1,3 @@
-# gui
-Graphical user interface for pyMANGA
+# Graphical user interface for pyMANGA
+
+**_BETA_**
